@@ -1,0 +1,5 @@
+html, body { margin: 0; padding: 0; background: #faf6ef; color: #2b231b; -webkit-text-size-adjust: 100%; }
+body { padding: env(safe-area-inset-top) 10px env(safe-area-inset-bottom); }
+button, a { -webkit-tap-highlight-color: transparent; }
+button:disabled { opacity: .5; }
+img { max-width: 100%; }
